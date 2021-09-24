@@ -12,4 +12,4 @@ public function jumlah($n1 = null, $n2 = null)
  return $this->hasil;
 }
  }
- ?>
+?>
